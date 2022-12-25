@@ -1,0 +1,13 @@
+{
+    "name": "cndrsdrmn/gitflow",
+    "description": "Git flow for project",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cndrsdrmn",
+            "email": "o.candra18@gmail.com"
+        }
+    ],
+    "require": {}
+}
