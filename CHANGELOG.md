@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/cndrsdrmn/gitflow/compare/v1.1.1...master)
+## [Unreleased](https://github.com/cndrsdrmn/gitflow/compare/v1.2.0...master)
+
+## [v1.2.0](https://github.com/cndrsdrmn/gitflow/compare/v1.1.1...v1.2.0) - 2022-12-27
+
+### Fixed
+
+- Bugfix 4.1 ([#21](https://github.com/cndrsdrmn/gitflow/pull/21))
 
 ## [v1.1.1](https://github.com/cndrsdrmn/gitflow/compare/v1.1.0...v1.1.1) - 2022-12-27
 
